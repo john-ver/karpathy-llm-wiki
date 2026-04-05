@@ -1,14 +1,16 @@
 # karpathy-llm-wiki
 
-OpenClaw skill. LLM-maintained persistent wiki from your sources.
-
-Based on [Karpathy's LLM-Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
-
-## Install
+[![ClawHub](https://img.shields.io/badge/clawhub-karpathy--llm--wiki-blue)](https://clawhub.ai/john-ver/karpathy-llm-wiki)
 
 ```bash
 npx clawhub@latest install karpathy-llm-wiki
 ```
+
+---
+
+OpenClaw skill. LLM-maintained persistent wiki from your sources.
+
+Based on [Karpathy's LLM-Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
 ## Usage
 
