@@ -1,4 +1,4 @@
-# claw-wiki
+# karpathy-llm-wiki
 
 OpenClaw skill. LLM-maintained persistent wiki from your sources.
 
@@ -7,7 +7,7 @@ Based on [Karpathy's LLM-Wiki](https://gist.github.com/karpathy/442a6bf555914893
 ## Install
 
 ```bash
-npx clawhub@latest install claw-wiki
+npx clawhub@latest install karpathy-llm-wiki
 ```
 
 ## Usage
